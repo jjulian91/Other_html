@@ -1,0 +1,83 @@
+[
+  
+  { "id" : "1",
+    "image_url": "Photos/Products/pacs.jpg",
+    "description": "Back Packs",
+    "features": "<ul><li>Weight: 4.56 LBS</li><li>Price: $279.99</li><li>Capacity: 65 L</li><li>Anti Gravity Suspension</li><li>Adjustable hip belt</li><li>Integrated water system (some models)</li></ul>",
+    "my_img":"Photos/Products/osprey.jpg",
+    "mygear":"Osprey Atmos 65 AG",
+    "honorable":"For backpacks it is very hard to have a specific honorable mention. Each brand is known for their own unique features which result in a unique fit for everyone. The most important factor in a backpacking pack is to ensure propper fit. This will make the trail wizz by and make your time in the back country more enjoyable.",
+    "justification":"The Atmos/Aura AG backpacks are the most iconic in the game. Their patented Anti Gravity suspension is the shining feature here. I have a hard time finding a pack that fits 'just right' and the Anti Gravity suspension is definitely the reason the pack fits so well.  Mixed with a decent weight and it is the pack I grab when I want to bug out."
+  },
+
+  {
+    "id" : "2",  
+    "image_url": "Photos/Products/Bearcan.jpg",
+    "description": "Bear Can",
+    "features": "<ul><li>Weight: 8.8 OZ </li><li>Price: $94.95</li><li>Capacity: 15 L</li><li>Usable in 95% of parks</li><li>Spectra Fabric</li><li>Certified Bear Resistant</li><li>Closure type: Draw String</li></ul>",
+    "my_img":"Photos/Products/major.JPG",
+    "mygear":"URSack Major XL",
+    "honorable":"There aren't many alternatives when it comes to bear sacks. URSack makes a few different models such as the almitey, or the minor. Other noteable brands, which often weight about 3 times a URSack, are Garcia and Bearvualt. These cans provide the benefit of also providing an elevated to sit around the camp.",
+    "justification":"The URSack Major XL provides a large bear resistant storage solution at a fraction of the weight of the competition.  Unlike the Almitey this sack closes only with draw string, versus both draw string and velcro. I hike in all tempuratures and felt that the velcro could prove to be problematic when used in colder weather. A known issue is if a bear gets their hands on your food, you won't be able to salvage much, but in any case bears are few and far between in highly populated trails."
+  },
+
+  { "id" : "3",
+    "image_url": "Photos/Products/pads.jpg",
+    "description": "Sleeping Pads",
+    "features": "<ul><li>Weight: 1.63 LBS</li><li>Price: $99.99</li><li>Thickness: 1.5\"</li><li>R Value: 4.2</li><li>Material: Hybrid</li><li>Self inflating</li></ul>",
+    "my_img":"Photos/Products/rail.jpg",
+    "mygear":"REI Air Rail 1.5",
+    "honorable":"Key players in this category include the Therma Rest Z-pad which is a closed cell foam pad. It offers a lightweight and semi comfortable accident proof sleeping location at a fractino of the cost of others.  On the other end of the spectrum there is the Therma-Rest Neo-Air or Xtherm. These are both 100% inflated pads which provide a light weight and packable sleeping area. The biggest complaint with these pads are the price, \"crinkle\" and the fragility of the pad.",
+    "justification":"The Air Rail 1.5 is a good balance of \"R Value\" (what keeps you warm at night), price, weight and durability. With the Air Rail you get the comfort of an inflated pad, with the durablity of the closed cell foam. This pad is in the middle of the road in performance but can often be found up to 25% during REI's sales.  It provides a comfortable sleeping platform without sacraficing weight or packability. "
+  },
+
+  {
+    "id" : "4",
+    "image_url": "Photos/Products/Sleeping bag.jpg",
+    "description": "Sleeping Bags",
+    "features": "<ul><li>Weight: 1.9lbs</li><li>Price: $299.99</li><li>Tempurature Rating: 17*F</li><li>Style: Mummy</li><li>Fill: 700 Duck Down</li></ul",
+    "my_img":"Photos/Products/igneo.jpg",
+    "mygear":"Igneo",
+    "honorable":"Much like packs there are a ton of competators in this category. It is very difficult to name one or two which stand out above the rest. Keep in mind when looking for a sleeping bag that the fill material is a key feature which will give insight into the longevity of the item",
+    "justification":"The Igneo is a great 4 season bag for people who tend to run warm. When taking into account the weight the bag it is at the top of its class and comes with a 700 duck down fill (800 goose down is the highest in this category)  The price of the bag may shock you at first but keep your eyes peeled for an REI sale where these bags go for 20% off list price."
+        
+  },
+  
+  { "id" : "5",
+    "image_url": "Photos/Products/Tents.jpg",
+    "description": "Tents",
+    "features": "<ul><li>Weight: 3.5 LBS</li><li>Price: $499.99</li><li>Doors: 2</li><li>Floor Space: 41 Sq Ft.</li><li>Style: Freestanding</li><li>Poles: 2 DAC Aluminium</li></ul",
+    "my_img":"Photos/Products/copper.jpg",
+    "mygear":"Big Agnes Copper Spur UL3",
+    "honorable":"The MSR Motha Hubba is a well known competator in this class. When it comes to a tent there are very few which do it better then Big Agnes especially in a 3 man capacity.  Key features to keep in mind are the style.  I do have another tent which is a semi-free standing that I use for ultralight thru hikes but it comes at the cost of having to find ground which you can stake your tent into. Unlike the Copper Spur which can be set up without any staking at all.",
+    "justification":"The Copper Spur is one of the best selling tents in any class (Solo, 2P, 3P or even 4P). The tent itself has many different variations at this point and all have unique features.  This is one of the lightest most versitile tents you can buy and though it is at the top of the price point it is well worth it. I use this tent almost exclusively even when I solo hike.  I always recommend that people size up their tents incase of things such as an unexpected storm. Being able to bring in all your gear and having dry socks is a blessing many take for granted when not on the trails."
+  },
+
+  { "id" : "6",
+    "image_url": "Photos/Products/Filters.jpg",
+    "description": "Water Filtration",
+    "features": "<ul><li>Weight: 4.95 OZ</li><li>Treatment Style: UV light</li><li>Battery type: Integrated/Rechargeable Lithium Ion</li><li>Filter Time: 32 Oz/90 Sec</li><li>Kills: Protozoa, Bacteria, And Viruses</li></ul",
+    "my_img":"Photos/Products/steri.jpeg",
+    "mygear":"Steri-Pen Ultra",
+    "honorable":"There are many different types of filters: Pumps, gravity, Squeeze.  If price is no matter the absolute best filter in the game is the MSR Guardian. It comes in substantially more expensive and heavier but it allows for drinking of even the most unsanitary water without fear.  Each type of filter system has its draw backs and it really comes into the type of back country exploration you will be doing. ",
+    "justification":"Unline other categories there aren't many competators for this particular type of filtration. Though it requires a prefilter to get rid of the debris in the water the Steri-pen is the best bang for its buck in terms of saftey. I pair this with a sawyer filter to ensure there aren't any floaters in my water but the weight, price, and safety features are all you need to consider for a Steripen. I always recommend carrying IODINE tabs incase of complete failure of a steripen unless you're carrying a sawyer or life pen filter as well."
+  },
+  
+  { "id" : "7",
+    "image_url": "Photos/Products/Outerwear.jpeg",
+    "description": "Outerwear",
+    "features": "<ul><li>Rain Gear: Frogg Toggs</li><li>Socks: Darn Tough or Smart Wool</li><li>Underwear: ExOfficio Give-N-Go SportMesh</li><li>Pants W/ underArmour or Climacool Shirt</li><li>Misc: UV Buff</li></ul",
+    "my_img":"Photos/Products/osprey.jpg",
+    "mygear":"Outerwear Cache",
+    "justification":"Outerwear falls into the same issues of picking a backpack. Finding the most comforatble boots are always going to differe from person to person. This is more about getting the lightest and most comfortable wear that will work for everyone.  A Buff is key especially when hiking in a place with limited shade. It provides UV protection without sticking to the skin when sweating as well as offers a breeze. The same can be said about climacool shirts and under armour. I always hike in pants because you never know when you will enter an area which hasn't been maintained in a while.   Socks and underwear are the most crucial element of clothing and I always tell people to pack many spares. Darn Tough, ExOfficio, and Smartwool are not cheap but they provide the best moisture wicking and durable for the longest of hikes.  Frogg Toggs are a cheap light durable solution to rain gear. They weigh virtually nothing and provide the utmost protection from the elements at a very discounted price. "
+  } , 
+  { "id" : "8",
+    "image_url": "Photos/Products/jb.jpg",
+    "description": "Camp Stove",
+    "features": "<ul><li>Weight: 13.1 oz</li><li>Fuel type: Isobutane-propane </li><li>Boil time: 100 seconds</li><li>Ignition type: piezoelectric</li></ul",
+    "my_img":"Photos/Products/jb.jpg",
+    "mygear":"JetBoil Flash",
+    "honorable":"Here you can really use whatever stove fits your style.  I have a few others in my gear cache which are great contendoers for a main stove.  The MSR Pocket Rocket packs very small and is very lightweight, you would have to bring your own pot which adds cost and weight.",
+    "justification":"The Jetboil is a great stove for everyone, even those trying to get into the ultralight category.  The stoves performance is in the top 10% of all stoves you can buy at this point.  A great feature is the entite set-up breaks down and is stored in the pot.  There are numerous attachemtns from a skillet to a french press which allow for a wide range of use.  The self lighting feature means you can ditch the matches at home!"
+  }
+]

@@ -1,0 +1,64 @@
+[
+ 
+  {
+    "id":"1",
+    "image_url": "Photos/Trips/LCT!.jpg",
+    "caption": "Lost Coast Trail",
+    "description": "<ul><li>Difficulty: Strenuous (Hiking on Sand)</li><li>Distance: 15 - 28 miles</li><li>Water Available: Plenitful</li><li>Elevation Gain/loss: Minimal (point to poin)</li></ul>",
+    "key_features":"<ul><li>Scenary</li><li>Wild Life</li><li>Surfing</li><li>Flora-Fauna</li></ul>" ,
+    "cautionary":"<ul><li>High Tide</li><li>Extreme Weather Shifts</li><li>Addiitonal clothing (You will be wet!)</li></ul>",
+    "path":"Photos/Trips/LCT/"
+        
+  },
+
+  {
+    "id":"2",
+    "image_url": "Photos/Trips/LakeJamison.jpg",
+    "caption": "Lake Jamison/Rock Lake",
+    "description": "<ul><li>Difficulty: Easy (after initial elevation gain)</li><li>Distance: 7 miles</li><li>Water Available: Plentiful</li><li>Elevation Gain/loss: Mild</li></ul>",
+    "key_features":"<ul><li>Water Fall</li><li>Swimming Hole</li><li>Very easy for first timers</li><li>Historic sites</li></ul>" ,
+    "cautionary":"<ul><li>Getting to the waterfall poses challenges</li><li>Abundant Poison Oak</li></ul>",
+    "path":"Photos/Trips/Jamison/"
+  },
+
+  {
+    "id":"3",
+    "image_url": "Photos/Trips/Cliff.JPG",
+    "caption": "Cliff Lake Sierra National Forest",
+    "description": "<ul><li>Difficulty: Moderate</li><li>Distance: 8 miles</li><li>Water Available: Scarce</li><li>Elevation Gain/loss: High</li></ul>",
+    "key_features":"<ul><li>Swimming</li><li>Well Kept Trail</li></ul>" ,
+    "cautionary":"<ul><li>Very remote</li><li>Have a full tank of gas!</li><li>Only Water Source is at the lakes</li></ul>",
+    "path":"Photos/Trips/Cliff/"
+  },
+
+  {
+    "id":"4",
+    "image_url": "Photos/Trips/TRT.jpg",
+    "caption": "Tahoe Rim Trail",
+    "description": "<ul><li>Difficulty: Moderate - Strenuous </li><li>Distance: 10 - 165 miles</li><li>Water Available: Plentiful</li><li>Elevation Gain/loss: Moderate</li></ul>",
+    "key_features":"<ul><li>Views of Tahoe from many places</li><li>Many different segements to choose from</li><li>Flora-Fauna</li></ul>" ,
+    "cautionary":"<ul><li>Weather is tempermental (snow in May)</li><li>Alot of unmarked trails easy to get lost</li><li></li></ul>",
+    "path":"Photos/Trips/TRT/"
+  },
+  
+  {
+    "id":"5",
+    "image_url": "Photos/Trips/Lassen.jpg",
+    "caption": "Lassen Volcanic National Park",
+    "description": "<ul><li>Difficulty: Moderate - strenuous</li><li>Distance: 15 - 40 miles</li><li>Water Available: Plentiful</li><li>Elevation Gain/loss: Moderate</li></ul>",
+    "key_features":"<ul><li>Hot springs!</li><li>Lava beds</li><li>swimming hole</li><li>Wild life</li></ul>" ,
+    "cautionary":"<ul><li>Alot of trails</li><li>Poison Ivy/Oak</li><li></li></ul>",
+    "path":"Photos/Trips/Lassen/"
+  },
+
+  {
+    "id":"6",
+    "image_url": "Photos/Trips/LittleSur.jpeg",
+    "caption": "Little Sur River",
+    "description": "<ul><li>Difficulty: Moderate</li><li>Distance: 5 - 9 miles</li><li>Water Available: Scarce</li><li>Elevation Gain/loss: Moderate</li></ul>",
+    "key_features":"<ul><li>Waterfall</li><li>Swimming</li><li>Short Easy Trip</li></ul>" ,
+    "cautionary":"<ul><li>Unkept Trails</li><li>No water until the falls</li><li>May have been effected by the Land Slides of 2017</li></ul>",
+        "path":"Photos/Trips/Sur/"
+        
+  }
+]
